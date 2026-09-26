@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data / AI-ML Professional | MCA Student | Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+for+real-world+impact;MCA+Student+%40+Anurag+University+(CGPA+9.48);Ex+AI%2FML+Intern+%40+InLighnX+Global;Python+%7C+SQL+%7C+ML+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+for+real-world+impact;MCA+Student+%40+Anurag+University;Ex+AI%2FML+Intern+%40+InLighnX+Global;Python+%7C+SQL+%7C+ML+%7C+Data+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **MCA at Anurag University** (2025–2027), CGPA 9.20
+- 🎓 Pursuing **MCA at Anurag University** (2025–2027), CGPA 9.20*
 - 🎓 **BCA from Fortune School of Business** (2022–2025), CGPA 9.11
 - 💼 Former **AI & Machine Learning Intern** @ InLighnX Global Pvt. Ltd.
 - 🔭 Currently building a **Health Digital Twin** — a personalized, data-driven digital replica of a user's health for prediction and monitoring
@@ -87,7 +87,7 @@
 
 | Institution | Degree | Score | Duration |
 |---|---|---|---|
-| Anurag University | MCA (Ongoing) | CGPA 9.48 | 2025 – 2027 |
+| Anurag University | MCA (Ongoing) | CGPA 9.20 | 2025 – 2027 |
 | Fortune School of Business | BCA | CGPA 9.11 | 2022 – 2025 |
 | Sri Chaitanya Junior College | Intermediate (BiPC) | CGPA 9.57 | 2020 – 2022 |
 | Mother Teresa High School | SSC | CGPA 10.0 | 2008 – 2020 |
